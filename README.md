@@ -1,6 +1,6 @@
 # Hello there! My name is Mark Cao. 👋 🤓
 
-I make professional **📱 iOS app** for a living now and also **Write some blogs**. 🌈    
+I make professional **🍏macOS &📱iOS Apps** for a living now and also **Write some blogs**. 🌈    
 
 * 💻  Interested in full stack. Recent focus on RTC(Real-Time Communication).
 * 👨‍🎓   With 4 years' computer science and technology education and 5 years' development working experience.
