@@ -1,8 +1,8 @@
-# Hello there 👋 🤓
+# Hello there! My name is Mark Cao. 👋 🤓
 
 I make professional **📱 iOS app** for a living now and also **Write some blogs**. 🌈    
 
-* 💻.  Interested in full stack. Recent focus on RTC(Real-Time Communication).
+* 💻  Interested in full stack. Recent focus on RTC(Real-Time Communication).
 * 👨‍🎓   With 4 years' computer science and technology education and 5 years' development working experience.
 * 💼   Used to be a Staff Engineer at Aneesoft.cn, but now I'm a Indie developer.
 * 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.75/4.0, TOP 5%.
