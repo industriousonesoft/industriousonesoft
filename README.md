@@ -1,6 +1,6 @@
 # Hello there! My name is Mark Cao. 👋 🤓
 
-I make professional **![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)macOS &📱iOS Apps** for a living now and also **Write some blogs**. 🌈    
+I make professional **🍏macOS &📱iOS Apps** for a living now and also **Write some blogs**. 🌈    
 
 * 💻   Interested in full stack. Recent focus on RTC(Real-Time Communication).
 * 👨‍🎓   With 4 years' computer science and technology education and 5 years' development working experience.
@@ -13,7 +13,8 @@ I make professional **![](https://img.shields.io/badge/mac%20os-000000?style=for
 
 <hr>
 <p align="center">
-<img src="https://img.shields.io/badge/WebRTC%20-%23FF6F00.svg?&style=for-the-badge&logo=WebRTC&logoColor=white" /> <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=C%2B%2B&ogoColor=white"/>
+<img src="https://img.shields.io/badge/WebRTC%20-%23FF6F00.svg?&style=for-the-badge&logo=WebRTC&logoColor=white" />  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 <p align=center>  
