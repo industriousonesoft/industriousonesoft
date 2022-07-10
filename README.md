@@ -1,6 +1,6 @@
 ### Hello there! My name is Mark Cao. 👋 🤓
 
-I am a senior engineer in Sany AI Academy now and also **Write some blogs**. 🌈    
+I am a senior engineer in Sany AI Institute now and also **Write some blogs**. 🌈    
 
 * 💻   Interested in full stack. Recent focus on RTC(Real-Time Communication).
 * 👨‍🎓   With 4 years' computer science and technology education and 9 years' development working experience.
