@@ -6,8 +6,8 @@ I am a senior engineer in Sany AI Institute now and also **Write some blogs**. �
 * 👨‍🎓   With 4 years' computer science and technology education and 9 years' development working experience.
 * 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.75/4.0, TOP 5%.
 * 💼   Used to be a Indie developer, but now I am a senior engineer in Sany AI Institute.
-* 🌱   Currently learning OpenGL, C++, STL, Math & Psychology.
-* 📚   Reading 《Effective Modern C++》《Effective STL》《Unity Shader精要》《新一代视频压缩编码标准H.264AVC 第2版》.
+* 🌱   Currently learning OpenGL, 3D渲染, Qt5, Linux内核+驱动，嵌入式硬件知识, Math & Psychology.
+* 📚   Reading 《Effective Modern C++》《Effective STL》《Unity Shader入门精要》《OUTLIVE》.
 * ✍🏻   Writing my personal thoughts on Programming & Tech & daily life in my [Personal Blog](https://naivertc.top/).
 * 🏋   When I'm not developing and coding, you can find me in GYM, accompanying my family, watching movies or reading books.
 
@@ -20,8 +20,8 @@ I am a senior engineer in Sany AI Institute now and also **Write some blogs**. �
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenGL-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+  <img src="https://img.shields.io/badge/Qt5-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
 
 <p align=center>  
