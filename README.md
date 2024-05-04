@@ -2,7 +2,7 @@
 
 I am a senior engineer in Sany AI Institute now and also **Write some blogs**. 🌈    
 
-* 💻   Interested in full stack. Recent focus on RTC(Real-Time Communication).
+* 💻   Interested in full stack. Recent focus on ~~RTC(Real-Time Communication)~~ OpenGL and 3D renderer engine.
 * 👨‍🎓   With 4 years' computer science and technology education and 9 years' development working experience.
 * 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.75/4.0, TOP 5%.
 * 💼   Used to be a Indie developer, but now I am a senior engineer in Sany AI Institute.
@@ -13,14 +13,14 @@ I am a senior engineer in Sany AI Institute now and also **Write some blogs**. �
 
 <hr>
 <p align="center">
+  <img src="https://img.shields.io/badge/OpenGL-%2320232a.svg?style=for-the-badge&logo=opengl&logoColor=%2361DAFB"/> 
+  <img src="https://img.shields.io/badge/GLSL-%23007ACC.svg?style=for-the-badge&logo=opengl&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Qt5-%23593d88.svg?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebRTC%20-%23FF6F00.svg?&style=for-the-badge&logo=WebRTC&logoColor=white" /> 
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/android-F54A2A?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GLSL-%23007ACC.svg?style=for-the-badge&logo=opengl&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/OpenGL-%2320232a.svg?style=for-the-badge&logo=opengl&logoColor=%2361DAFB"/> 
-  <img src="https://img.shields.io/badge/Qt5-%23593d88.svg?style=for-the-badge&logo=qt&logoColor=white"/>
 </p>
 
 <p align=center>  
