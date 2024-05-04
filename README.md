@@ -18,8 +18,8 @@ I am a senior engineer in Sany AI Institute now and also **Write some blogs**. ð
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/> 
   <img src="https://img.shields.io/badge/GLSL-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/OpenGL-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
-  <img src="https://img.shields.io/badge/Qt5-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/opengl-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+  <img src="https://img.shields.io/badge/qt-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
 
 <p align=center>  
