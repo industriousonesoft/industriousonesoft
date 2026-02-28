@@ -25,10 +25,9 @@ I am a senior engineer in Sany AI Institute now and also **Write some blogs**. ð
   <img src="https://img.shields.io/badge/WebRTC%20-%23FF6F00.svg?&style=for-the-badge&logo=WebRTC&logoColor=white" /> 
 </p>
 
-<p align=center>  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=industriousonesoft&hide_langs_below=1&theme=dracula&line_height=27&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=industriousonesoft&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&line_height=21&hide=stars" alt="MarkCao's Github Stats" />
-</p>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 
 
