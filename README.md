@@ -13,13 +13,13 @@ I am a senior engineer in Sany AI Institute now and also **Write some blogs**. ð
 
 <hr>
 <p align="center">
+  <img src="https://img.shields.io/badge/OpenClaw-8B0000?style=for-the-badge" alt="OpenClaw">
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/OpenClaw-8B0000?style=for-the-badge" alt="OpenClaw">
   <img src="https://img.shields.io/badge/Qt5-%23593d88.svg?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebRTC%20-%23FF6F00.svg?&style=for-the-badge&logo=WebRTC&logoColor=white" /> 
 </p>
