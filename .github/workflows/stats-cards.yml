@@ -5,9 +5,9 @@ on:
     branches:
       - main
       - master
-  schedule: # 每天运行一次
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+  #schedule: # 每天运行一次
+  #  - cron: "0 0 * * *"
+  #workflow_dispatch:
 
 jobs:
   build:
