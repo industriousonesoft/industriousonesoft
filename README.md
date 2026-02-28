@@ -27,7 +27,7 @@ I am a senior engineer in Sany AI Institute now and also **Write some blogs**. ð
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+<!-- ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
 
 
 
